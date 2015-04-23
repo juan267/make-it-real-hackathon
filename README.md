@@ -22,6 +22,7 @@ El objetivo de cada grupo es crear un aplicación  basada en este tema:
 ####  Funcionalidades
 
 :anchor:  Las funcionalidades que como minimo debería tener la aplicación
+
 :rocket: Funcionalidades avanzadas 
 
  * :anchor: Como usuario puedo registrarme en la pagina. 
