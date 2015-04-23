@@ -16,7 +16,7 @@ Para esta Hackathon vamos a estar trabajando en grupos, el mentor de cada locaci
 El objetivo de cada grupo es crear un aplicación  basada en este tema: 
 
 > **TEMA:**
-> - Crear un juego sencillo de un solo jugador :video_game: , con un componente social , de forma que pueda seguir a otros jugadores o amigos para poder ver sus Highscores :couple:.    
+> - Crear un juego sencillo de un solo jugador :video_game:  con un componente social :couple: , de forma que pueda seguir a otros jugadores o amigos para poder ver sus Highscores .    
 
 
 #### <i class="icon-file"></i> Funcionalidades
