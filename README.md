@@ -38,7 +38,7 @@ El objetivo de cada grupo es crear un aplicación  basada en este tema:
 
 El Domingo un panel de jueces evaluara la aplicación de cada grupo y decidira cual fue el que realizo el mejor trabajo. 
 
-#### :hammer: Delete a document
+#### :hammer: Reglas
 
  - El Hackathon se termina el domingo a las 5 PM
  - Los mentores no podran ayudar a los grupos
