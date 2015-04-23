@@ -19,26 +19,26 @@ El objetivo de cada grupo es crear un aplicación  basada en este tema:
 > - Crear un juego sencillo de un solo jugador :video_game:  con un componente social :couple: , de forma que pueda seguir a otros jugadores o amigos para poder ver sus Highscores .    
 
 
-#### <i class="icon-file"></i> Funcionalidades
+####  Funcionalidades
 
 :anchor:  Las funcionalidades que como minimo debería tener la aplicación
 :rocket: Funcionalidades avanzadas 
 
- :anchor: Como usuario puedo registrarme en la pagina. 
- :anchor: Como usuario registrado puedo jugar un juego que al final me diga cual fue mi marcador. 
- :anchor: Como usuario registrado puedo ver un tablero con mis 10 puntajes mas altos. (Highscores). 
- :anchor: Como usuario registrado puedo ver la lista de los mejores jugadores dentro de toda la plataforma.
- :anchor: Como usuario registrado puedo ver el perfil de otro usuario, en el cual podre ver sus Highscores. 
- :rocket: Como usuario registrado puedo seguir a otros usuarios dentro de la forma convirtiendo en un Follower de ese usuario. 
- :rocket: Como usuario registrado otros usuarios me pueden seguir de forma que gano Followees. 
- :rocket: Como Usuario registrado puedo ver un feed en el que aparazcan los ultimos puntajes de los usuario que sigo. 
+ * :anchor: Como usuario puedo registrarme en la pagina. 
+ * :anchor: Como usuario registrado puedo jugar un juego que al final me diga cual fue mi marcador. 
+ * :anchor: Como usuario registrado puedo ver un tablero con mis 10 puntajes mas altos. (Highscores). 
+ * :anchor: Como usuario registrado puedo ver la lista de los mejores jugadores dentro de toda la plataforma.
+ * :anchor: Como usuario registrado puedo ver el perfil de otro usuario, en el cual podre ver sus Highscores. 
+ * :rocket: Como usuario registrado puedo seguir a otros usuarios dentro de la forma convirtiendo en un Follower de ese usuario. 
+ * :rocket: Como usuario registrado otros usuarios me pueden seguir de forma que gano Followees. 
+ * :rocket: Como Usuario registrado puedo ver un feed en el que aparazcan los ultimos puntajes de los usuario que sigo. 
 
 
-#### <i class="icon-pencil"></i> Calificacion
+####  Calificacion
 
 El Domingo un panel de jueces evaluara la aplicación de cada grupo y decidira cual fue el que realizo el mejor trabajo. 
 
-#### :hammer: Reglas
+####  Reglas
 
  - El Hackathon se termina el domingo a las 5 PM
  - Los mentores no podran ayudar a los grupos
