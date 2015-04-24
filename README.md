@@ -9,7 +9,7 @@ Este es el momento de poner a prueba todo lo que has aprendido y descubrir todo 
 
 
 Resumen
-
+----------
 
 Para esta Hackathon vamos a estar trabajando en grupos, el mentor de cada locacion, decidara los integrantes de los grupos.  
 
