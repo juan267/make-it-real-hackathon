@@ -11,7 +11,7 @@ Este es el momento de poner a prueba todo lo que has aprendido y descubrir todo 
 Resumen
 ----------
 
-Para esta Hackathon vamos a estar trabajando en grupos, el mentor de cada locacion, decidara los integrantes de los grupos.  
+Para esta Hackathon vamos a estar trabajando en grupos, el mentor de cada locacion, decidira los integrantes de los grupos.  
 
 El objetivo de cada grupo es crear un aplicación  basada en este tema: 
 
